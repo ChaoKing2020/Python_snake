@@ -1,1 +1,1 @@
-this is snake about python.
+# this is snake game about python.
